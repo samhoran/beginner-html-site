@@ -1,15 +1,6 @@
 p {
-  color: red;
+  color: black;
   width: 500px;
-  border: 1px solid black;
-}
-
-p, li, h1 {
-	color: red;
-}
-
-h1 {
-	font-family: 'Open Sans', sans-serif;
 }
 
 html {
@@ -28,5 +19,18 @@ h1 {
   margin: 0;
   padding: 20px 0;    
   color: #00539F;
-  text-shadow: 3px 3px 1px black;
+  text-shadow: 2px 2px 1px black;
+}
+
+
+.quote {
+  border: 1px solid black;
+}
+
+#mainquote {
+  color: black;
+}
+
+.importanttext {
+  display: inline-block;
 }
