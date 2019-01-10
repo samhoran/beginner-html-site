@@ -7,3 +7,7 @@ p {
 p, li, h1 {
 	color: red;
 }
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+}
