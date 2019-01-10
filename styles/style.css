@@ -11,3 +11,7 @@ p, li, h1 {
 h1 {
 	font-family: 'Open Sans', sans-serif;
 }
+
+li {
+	background-color: blue;
+}
