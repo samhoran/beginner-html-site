@@ -16,10 +16,10 @@ var disappear_button = document.getElementById('disappear')
 // Assign the function to the onclick event on that element
 foxImage.onclick = sayOuch;
 
-disappear_button.onclick = function(event){
+disappear_button.onclick = function(){
 	foxImage.style.visibility="hidden";
 }
-appear_button.onclick = function(event){
+appear_button.onclick = function(){
 	foxImage.style.visibility="visible";
 }
 
