@@ -14,10 +14,10 @@ var toggle = document.getElementById('toggle')
 foxImage.onclick = sayOuch;
 
 function togg() {
-	if (foxImage.style.visibility=="visible") {
-		foxImage.style.visibility="hidden";
+	if (foxImage.style.display=="block") {
+		foxImage.style.display="none";
 	} else {
-		foxImage.style.visibility="visible";
+		foxImage.style.display="block";
 	}
 }
 
