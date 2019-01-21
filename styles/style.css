@@ -25,11 +25,12 @@ h1 {
 
 .quote {
   border: 1px solid black;
+  color: red;
 }
 
-#mainquote {
+/*#mainquote {
   color: black;
-}
+}*/
 
 .importanttext {
   display: inline-block;
