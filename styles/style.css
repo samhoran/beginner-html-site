@@ -28,9 +28,10 @@ h1 {
   color: red;
 }
 
-/*#mainquote {
-  color: black;
-}*/
+#mainquote {
+  border: 10px solid black;
+  /*it already had a border, so here's a bigger one*/
+}
 
 .importanttext {
   display: inline-block;
