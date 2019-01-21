@@ -36,3 +36,7 @@ h1 {
 .importanttext {
   display: inline-block;
 }
+
+img {
+  display: none;
+}

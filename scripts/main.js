@@ -14,9 +14,9 @@ var toggle = document.getElementById('toggle')
 foxImage.onclick = sayOuch;
 
 function togg() {
-	if (foxImage.style.display=="block") {
+	if (foxImage.style.display=="block") 
 		foxImage.style.display="none";
-	} else {
+	 else {
 		foxImage.style.display="block";
 	}
 }
